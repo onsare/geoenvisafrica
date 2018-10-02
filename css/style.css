@@ -2285,6 +2285,8 @@ h6.progress-head {
 .team-description {
 	font-size:14px;
 	color:#8F8F8F;
+
+    text-align: justify;
 }
 .team-member-name {
 	font-weight:400;
